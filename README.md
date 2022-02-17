@@ -45,9 +45,8 @@ Will continue to develope CSS and Flexbox proficiency, as well as learn CSS grid
 
 ## Author
 
-- Website - [TJ Ciccone](https://www.your-site.com)
-- Frontend Mentor - [@teej0103](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@ciccone_tj](https://www.twitter.com/yourusername)
+- Frontend Mentor - [teej0103](https://www.frontendmentor.io/profile/teej0103)
+- Twitter - [ciccone_tj](https://www.twitter.com/ciccone_tj)
 
 
 ## Acknowledgments
